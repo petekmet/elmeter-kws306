@@ -1,5 +1,5 @@
 # elmeter-kws306
-Electricity meter documentation
+Electricity meter documentation for MODBUS-enabled device purchased on Aliexpress.
 
 | Register Address (HEX) | Meaning                          | Word Length | R/W | Scale Factor | Notes                                                                 |
 |-------------------------|----------------------------------|-------------|-----|--------------|----------------------------------------------------------------------|
